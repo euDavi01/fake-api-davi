@@ -1,0 +1,1 @@
+(id, titulo, concluida): { "metas": [ { "id": 1, "titulo": "Completar o esboço do TCC", "concluida": 0 }, { "id": 2, "titulo": "Aprender Inglês", "concluida": 0 }, { "id": 3, "titulo": "Ler 12 livros no ano", "concluida": 1 }, { "id": 4, "titulo": "Desenhar por 30 dias", "concluida": 0 } ] } Salve/faça o commit do arquivo (commit direto na branch main).
